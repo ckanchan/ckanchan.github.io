@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Chai Kanchan</title>
+    <link>https://www.chaidk.me/tags/development/</link>
+    <description>Recent content in Development on Chai Kanchan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 02 Jan 2019 10:01:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.chaidk.me/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://www.chaidk.me/articles/helloworld/</link>
+      <pubDate>Wed, 02 Jan 2019 10:01:18 +0000</pubDate>
+      
+      <guid>https://www.chaidk.me/articles/helloworld/</guid>
+      <description>This is a customary &amp;lsquo;Hello world!&amp;rsquo; post to check out whether everything&amp;rsquo;s working on this site, which is not only my personal page but also a work-in-progress learning project for web dev. This initial release is made with the Hugo static site generator, as a straightforward static site serves my needs (articles and a portfolio) well. I&amp;rsquo;m developing the theme in concert with the site as part of webdev learning, and as such it&amp;rsquo;s a pretty simple patchwork at the moment.</description>
+    </item>
+    
+  </channel>
+</rss>

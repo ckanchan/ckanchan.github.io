@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Chai Kanchan</title>
+    <link>https://www.chaidk.me/software/</link>
+    <description>Recent content in Software on Chai Kanchan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 02 Jan 2019 10:01:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.chaidk.me/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SAAoSX</title>
+      <link>https://www.chaidk.me/software/saaosx/</link>
+      <pubDate>Wed, 02 Jan 2019 10:01:18 +0000</pubDate>
+      
+      <guid>https://www.chaidk.me/software/saaosx/</guid>
+      <description>Quickly view and search the letters in the State Archives of Assyria database, even offline     Tabbed panes for choosing between cuneified, transliterated, synthesized normalisations or translations of texts.     Integrated glossary with lookup of headwords in context     Map the locations of places mentioned in a letter     Basic support for reading RINAP volumes     On macOS 10.</description>
+    </item>
+    
+  </channel>
+</rss>
