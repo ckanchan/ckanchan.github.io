@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policies on Chai Kanchan</title>
+    <link>https://www.chaidk.me/policies/</link>
+    <description>Recent content in Policies on Chai Kanchan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://www.chaidk.me/policies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SAAo-SX Lite Privacy Policy</title>
+      <link>https://www.chaidk.me/software/saaosx/privacy/lite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaidk.me/software/saaosx/privacy/lite/</guid>
+      <description>SAAo-SX does not collect, store, or transmit any user data whatsoever. As a content viewer, it offers no facility for the user to enter and record any personally identifiable information.
+If you&amp;rsquo;ve chosen to download the Mac App Store distribution of this app, then Apple will hold information on you as part of your transaction with them. For more information, see the Apple Privacy Policy.</description>
+    </item>
+    
+  </channel>
+</rss>

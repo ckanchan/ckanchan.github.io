@@ -29,5 +29,15 @@
       <description>Quickly view and search the letters in the State Archives of Assyria database, even offline     Tabbed panes for choosing between cuneified, transliterated, synthesized normalisations or translations of texts.     Integrated glossary with lookup of headwords in context     Map the locations of places mentioned in a letter     Basic support for reading RINAP volumes     On macOS 10.</description>
     </item>
     
+    <item>
+      <title>SAAo-SX Lite Privacy Policy</title>
+      <link>https://www.chaidk.me/software/saaosx/privacy/lite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaidk.me/software/saaosx/privacy/lite/</guid>
+      <description>SAAo-SX does not collect, store, or transmit any user data whatsoever. As a content viewer, it offers no facility for the user to enter and record any personally identifiable information.
+If you&amp;rsquo;ve chosen to download the Mac App Store distribution of this app, then Apple will hold information on you as part of your transaction with them. For more information, see the Apple Privacy Policy.</description>
+    </item>
+    
   </channel>
 </rss>
