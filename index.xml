@@ -6,10 +6,20 @@
     <description>Recent content in Chai D Kanchan on Chai Kanchan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 13 Jan 2019 12:16:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 19:14:23 +0000</lastBuildDate>
     
 	<atom:link href="https://www.chaidk.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tupshar</title>
+      <link>https://www.chaidk.me/software/tupshar/</link>
+      <pubDate>Mon, 25 Feb 2019 19:14:23 +0000</pubDate>
+      
+      <guid>https://www.chaidk.me/software/tupshar/</guid>
+      <description>Tupshar &amp;lsquo;The Scribe&amp;rsquo; (Akkadian language) Tupshar is a document editing app designed to make it easier to compose and edit texts in the cuneiform script on your Mac. Based off open formats for encoding computer cuneiform, Tupshar lets you produce richly annotated documents, with each word encoding its own cuneiform, transliteration, normalisation and translation representations.
+   Write cuneiform documents easily on the Mac      Tupshar automatically converts your transliterations into cuneiform script      Export to Microsoft Word or plain text formats    Download Download the latest release</description>
+    </item>
     
     <item>
       <title>SAAi</title>
@@ -55,6 +65,16 @@ Apple will hold information on you as part of your transaction with them when do
       
       <guid>https://www.chaidk.me/software/saaosx/privacy/lite/</guid>
       <description>SAAo-SX does not collect, store, or transmit any user data whatsoever. As a content viewer, it offers no facility for the user to enter and record any personally identifiable information.
+If you&amp;rsquo;ve chosen to download the Mac App Store distribution of this app, then Apple will hold information on you as part of your transaction with them. For more information, see the Apple Privacy Policy.</description>
+    </item>
+    
+    <item>
+      <title>Tupshar Privacy Policy</title>
+      <link>https://www.chaidk.me/software/tupshar/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaidk.me/software/tupshar/privacy/</guid>
+      <description>Tupshar does not connect to the internet and cannot transmit any personally identifiable information pertaining to its users.
 If you&amp;rsquo;ve chosen to download the Mac App Store distribution of this app, then Apple will hold information on you as part of your transaction with them. For more information, see the Apple Privacy Policy.</description>
     </item>
     
