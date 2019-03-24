@@ -6,10 +6,20 @@
     <description>Recent content in Articles on Chai Kanchan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 02 Jan 2019 10:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2019 15:47:58 +0000</lastBuildDate>
     
 	<atom:link href="https://www.chaidk.me/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>&#39;Tablet Computing&#39; - Writing Computer Compatible Cuneiform Software</title>
+      <link>https://www.chaidk.me/articles/tablet_computing/intro/</link>
+      <pubDate>Sun, 24 Mar 2019 15:47:58 +0000</pubDate>
+      
+      <guid>https://www.chaidk.me/articles/tablet_computing/intro/</guid>
+      <description>Were an ancient Mesopotamian to find themselves flung into the far future of 2018 through some grotesque mishap, they might very well appreciate the ubiquity of our smartphones and tablets. When they&amp;rsquo;re not bursting with distraction and spectacle, these small, oblong artefacts displaying all manner of text perhaps evoke the memories of their clay ancestors, both of which became indispensable tools within their societies.
+Working with ancient cuneiform texts on an electronic device is not quite as straightforward as on clay hardware: with the latter, you can just grab a lump of clay and a reed and start writing.</description>
+    </item>
     
     <item>
       <title>Hello world!</title>
@@ -17,7 +27,7 @@
       <pubDate>Wed, 02 Jan 2019 10:01:18 +0000</pubDate>
       
       <guid>https://www.chaidk.me/articles/helloworld/</guid>
-      <description>This is a customary &amp;lsquo;Hello world!&amp;rsquo; post to check out whether everything&amp;rsquo;s working on this site, which is not only my personal page but also a work-in-progress learning project for web dev. This initial release is made with the Hugo static site generator, as a straightforward static site serves my needs (articles and a portfolio) well. I&amp;rsquo;m developing the theme in concert with the site as part of webdev learning, and as such it&amp;rsquo;s a pretty simple patchwork at the moment.</description>
+      <description>This is a traditional &amp;lsquo;Hello world!&amp;rsquo; post to check out whether everything&amp;rsquo;s working on this site, which is not only my personal page but also a work-in-progress learning project for web dev. This initial release is made with the Hugo static site generator, as a straightforward static site serves my needs (articles and a portfolio) well. I&amp;rsquo;m developing the theme in concert with the site as part of webdev learning, and as such it&amp;rsquo;s a pretty simple patchwork at the moment.</description>
     </item>
     
   </channel>
