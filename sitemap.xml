@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.chaidk.me/</loc>
+    <lastmod>2019-07-12T16:57:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.chaidk.me/software/</loc>
+    <lastmod>2019-07-12T16:57:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.chaidk.me/software/tupshenna/</loc>
+    <lastmod>2019-07-12T16:57:11+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.chaidk.me/articles/tablet_computing/intro/</loc>
     <lastmod>2019-03-24T15:47:58+00:00</lastmod>
   </url>
@@ -11,11 +26,6 @@
     <loc>https://www.chaidk.me/articles/</loc>
     <lastmod>2019-03-24T15:47:58+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chaidk.me/</loc>
-    <lastmod>2019-03-24T15:47:58+00:00</lastmod>
   </url>
   
   <url>
@@ -28,11 +38,6 @@
     <loc>https://www.chaidk.me/tags/development/</loc>
     <lastmod>2019-03-24T15:47:58+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chaidk.me/software/</loc>
-    <lastmod>2019-02-25T19:14:23+00:00</lastmod>
   </url>
   
   <url>
